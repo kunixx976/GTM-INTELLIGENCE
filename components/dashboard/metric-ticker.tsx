@@ -1,0 +1,1 @@
+export function MetricTicker() { return <div>Fluctuating Dynamic Metric Ticker</div>; }

@@ -1,0 +1,1 @@
+export function AreaTelemetry() { return <div>Glow-Gradient Telemetry Graph</div>; }

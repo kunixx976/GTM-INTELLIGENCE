@@ -1,0 +1,1 @@
+export function Alert() { return <div>Security Alert Signal</div>; }

@@ -1,0 +1,1 @@
+export function AgentCard() { return <div>Sub-Agent Core Metrics Summary</div>; }

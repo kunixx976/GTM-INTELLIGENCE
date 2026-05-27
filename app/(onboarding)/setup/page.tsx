@@ -1,0 +1,1 @@
+export default function OnboardingSetup() { return <h2>Bootstrap Agent Orchestration</h2>; }

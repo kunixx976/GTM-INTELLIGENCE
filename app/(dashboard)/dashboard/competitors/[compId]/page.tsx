@@ -1,0 +1,1 @@
+export default function CompetitorDossier() { return <h2>Competitor Profiles</h2>; }

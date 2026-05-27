@@ -1,0 +1,1 @@
+export function AlertBarTicker() { return <div>Marquee dynamic warning system</div>; }

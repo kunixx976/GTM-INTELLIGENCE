@@ -1,0 +1,1 @@
+export function CommandPalette() { return <div>Global Search command controller</div>; }

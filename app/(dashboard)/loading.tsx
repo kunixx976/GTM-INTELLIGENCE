@@ -1,0 +1,1 @@
+export default function DashboardLoading() { return <div>Updating telemetry streams...</div>; }
