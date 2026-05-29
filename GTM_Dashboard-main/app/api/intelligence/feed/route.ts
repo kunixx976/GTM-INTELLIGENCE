@@ -1,0 +1,1 @@
+export async function GET() { return new Response('Raw Intelligence Feed Pipeline Active'); }

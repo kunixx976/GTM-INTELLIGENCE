@@ -1,0 +1,1 @@
+export default function LoginPage() { return <h2>Sign In - Credentials Authorized</h2>; }

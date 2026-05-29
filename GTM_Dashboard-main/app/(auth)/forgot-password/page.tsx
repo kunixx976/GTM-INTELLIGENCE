@@ -1,0 +1,1 @@
+export default function ForgotPasswordPage() { return <h2>Reset Security Key</h2>; }

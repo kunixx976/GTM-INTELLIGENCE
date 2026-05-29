@@ -1,0 +1,1 @@
+export function LineFinancials() { return <div>Dual-axis market trends comparison</div>; }

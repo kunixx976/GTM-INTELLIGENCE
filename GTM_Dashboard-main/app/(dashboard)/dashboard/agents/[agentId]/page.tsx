@@ -1,0 +1,1 @@
+export default function AgentDeepDive() { return <h2>Sub-Agent Core Telemetry</h2>; }

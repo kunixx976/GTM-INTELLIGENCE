@@ -1,0 +1,1 @@
+export function BarActivity() { return <div>Token consumption history timeline</div>; }

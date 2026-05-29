@@ -1,0 +1,1 @@
+export function Command() { return <div>Interactive Command Palette</div>; }

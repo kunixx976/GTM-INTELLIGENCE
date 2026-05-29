@@ -1,0 +1,1 @@
+export function Hero() { return <div>Glitched Terminal Header Splash</div>; }

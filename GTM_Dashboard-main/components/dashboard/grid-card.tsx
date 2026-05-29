@@ -1,0 +1,1 @@
+export function GridCard() { return <div>Terminal Panel Bracket</div>; }

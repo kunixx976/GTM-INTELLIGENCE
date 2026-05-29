@@ -1,0 +1,1 @@
+export async function GET() { return new Response('SSE Telemetry Pipeline Active'); }
