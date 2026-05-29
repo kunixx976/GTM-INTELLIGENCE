@@ -1,0 +1,1 @@
+export function MockTerminal() { return <div>Visual mock pipeline simulation</div>; }

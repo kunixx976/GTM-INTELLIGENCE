@@ -1,0 +1,1 @@
+export default function Loading() { return <div>Booting Terminal...</div>; }

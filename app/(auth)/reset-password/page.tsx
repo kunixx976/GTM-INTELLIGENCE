@@ -1,0 +1,1 @@
+export default function ResetPasswordPage() { return <h2>Authorize Password Rotation</h2>; }

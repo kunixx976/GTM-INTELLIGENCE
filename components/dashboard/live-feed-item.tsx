@@ -1,0 +1,1 @@
+export function LiveFeedItem() { return <div>Active GTM Signal Entry</div>; }

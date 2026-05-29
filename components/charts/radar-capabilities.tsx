@@ -1,0 +1,1 @@
+export function RadarCapabilities() { return <div>Agent skill vectors radar visual</div>; }

@@ -1,0 +1,1 @@
+export function StatusIndicator() { return <div>Glowing Telemetry LED</div>; }

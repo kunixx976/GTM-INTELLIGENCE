@@ -1,0 +1,1 @@
+export function ErrorBoundary() { return <div>Intrusion detection boundary</div>; }
