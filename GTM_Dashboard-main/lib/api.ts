@@ -10,4 +10,4 @@ export const api = axios.create({
   },
 });
 
-export const websocketURL = process.env.NEXT_PUBLIC_WS_URL || "ws://localhost:8000/ws/telemetry";
+export const websocketURL = process.env.NEXT_PUBLIC_WS_URL || "ws://localhost:3000/ws/telemetry";
